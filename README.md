@@ -1,4 +1,4 @@
-# passwordgen
+# Passwordgen
 This Python code generates random password.
 
 Importing Required Modules:
